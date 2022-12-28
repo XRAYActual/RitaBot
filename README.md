@@ -140,7 +140,7 @@
 *The bot can also be run locally on a device. Please note that for the bot to continue running 24/7, the process of `node src/bot.js` should always remain online and thus your PC/hosting device must remain online too*
 
 1. Install [node.js](https://nodejs.org/en/). It comes with [npm](https://www.npmjs.com/get-npm) which you will need.
-2. Simply download this repository as a .zip, or clone it if you have git: **```git clone https://github.com/XRAYActual/RitaBot/```**
+2. Simply download this repository as a .zip, or clone it if you have git: **```git clone https://github.com/XRAYActual/RitaBot```**
 3. In the RitaBot folder, rename the existing **.env.example** file and name it **.env**. Edit the Value of **DISCORD_TOKEN**. (If you don't have a bot account, see [Step 2 of "Setting Up a New Bot"](#new-bot))
 4. Open a terminal/console in the RitaBot folder and download dependencies using **`npm install`**
 5. Start the bot with **`npm start`**
